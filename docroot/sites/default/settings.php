@@ -765,3 +765,5 @@ if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
 }
 
 $settings['install_profile'] = 'standard';
+
+$config_directories['sync'] = '../config/default';
