@@ -1,0 +1,13 @@
+{
+    "name": "shahinam/d8examples-site",
+    "description": "A site build to include all the config for https://github.com/shahinam/d8examples.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Inam",
+            "email": "mohdinamshah@gmail.com"
+        }
+    ],
+    "require": {}
+}
