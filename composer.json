@@ -55,5 +55,11 @@
                 "sites/example.settings.local.php": "sites/default/settings.local.php"
             }
         }
+    },
+    "repositories": {
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
     }
 }
