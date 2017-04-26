@@ -3,6 +3,8 @@
     "description": "A site build to include all the config for https://github.com/shahinam/d8examples.",
     "type": "project",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Muhammad Inam",
