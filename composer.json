@@ -16,7 +16,8 @@
         "oomphinc/composer-installers-extender": "^1.1",
         "cweagans/composer-patches": "^1.6",
         "drupal-composer/drupal-scaffold": "^2.2",
-        "drupal/core": "^8.3"
+        "drupal/core": "^8.3",
+        "shahinam/d8examples": "dev-master"
     },
     "extra": {
         "enable-patching": true,
@@ -63,6 +64,10 @@
         "drupal": {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        "d8examples": {
+            "type": "path",
+            "url": "../d8examples"
         }
     }
 }
